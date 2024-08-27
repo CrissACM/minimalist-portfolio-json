@@ -1,12 +1,12 @@
 {
 	"basics": {
 		"name": "Cristobal Colmenares",
-		"label": "Software developer / Full Stack web developer",
+		"label": "Desarrollador web frontend",
 		"image": "/me.webp",
 		"email": "alex.ccm7Z@gmail.com",
 		"phone": "+58 4248316446",
 		"url": "https://crissdev.vercel.app",
-		"summary": "Software Developer focused on building products with special attention to details, Technology enthusiast, with skills in different backend and frontend web environment development environments as well as mobile development. Experience with administrative systems, biometric devices, facial recognition, and everything that corresponds to software development.",
+		"summary": "Desarrollador de software centrado en la construcción de productos con especial atención a los detalles. Entusiasta de la tecnología, con habilidades en diferentes entornos de desarrollo web de backend y frontend, así como desarrollo móvil. Experiencia con sistemas administrativos, dispositivos biométricos, reconocimiento facial y todo lo que corresponde al desarrollo de software.",
 		"location": {
 			"address": "",
 			"postalCode": "8001",
@@ -40,11 +40,11 @@
 	"work": [
 		{
 			"name": "LatamEarth",
-			"position": "Full Stack developer",
+			"position": "Desarrollador Full Stack",
 			"url": "https://latamearth.com/",
 			"startDate": "2023-03-12",
 			"endDate": null,
-			"summary": "System integrates multiple libraries with React.js and Next.js uses to improve productivity and code quality. It handles user registration forms, manages files and databases for administrative purposes, and displays data in tables. It also manages various APIs, has error handling, and provides scalable and understandable code. UX design improves user interaction with the system.",
+			"summary": "El sistema integra múltiples bibliotecas con React.js y Next.js para mejorar la productividad y la calidad del código. Maneja formularios de registro de usuarios, administra archivos y bases de datos para fines administrativos, y muestra datos en tablas. También gestiona varias API, tiene manejo de errores y proporciona un código escalable y comprensible. El diseño UX mejora la interacción del usuario con el sistema.",
 			"highlights": [
 				"TypeScript",
 				"React.js",
@@ -61,20 +61,20 @@
 		},
 		{
 			"name": "OgrosGameShop",
-			"position": "Frontend developer",
+			"position": "Desarrollador Frontend",
 			"url": "https://ogrosgameshop.com",
 			"startDate": "2022-06-10",
 			"endDate": "2023-04-01",
-			"summary": "Website style design taking into account UI/UX to facilitate the user's navigation through e-commerce, integration of administrative panel for the management of products through a CMS, management and integration of social networks for customer service",
+			"summary": "Diseño de estilo de sitio web teniendo en cuenta UI/UX para facilitar la navegación del usuario a través del comercio electrónico, integración de panel administrativo para la gestión de productos a través de un CMS, gestión e integración de redes sociales para servicios al cliente.",
 			"highlights": ["PHP", "JQuery", "WordPress", "MySql", "Shopify"]
 		},
 		{
 			"name": "Freelance & Proyecto personales",
-			"position": "Full Stack developer",
-			"url": "",
+			"position": "Full Stack Desarrollador",
+			"url": null,
 			"startDate": "2021-03-01",
 			"endDate": null,
-			"summary": "Build an e-commerce website, Profile, Creation of Web application, Handle extracted data, Third-party integrations.",
+			"summary": "Construir un sitio web de comercio electrónico, Perfil, Creación de aplicación web, Manejo de datos extraídos, Integraciones de terceros.",
 			"highlights": [
 				"Redux",
 				"Supabase",
@@ -90,10 +90,10 @@
 		},
 		{
 			"name": "Jupiter Suministros C.A",
-			"position": "Web Administrator & Technical Maintenance",
+			"position": "Administrador Web y Mantenimiento Técnico",
 			"startDate": "2022-03-01",
 			"endDate": "2020-05-01",
-			"summary": "Updating and Maintenance of computer equipment both in Hardware and Software, keeping them updated for the productivity of the employees and the company, thus avoiding inconsistency.",
+			"summary": "Actualización y Mantenimiento de equipos informáticos tanto en Hardware como en Software, manteniéndolos actualizados para la productividad de los empleados y la empresa, evitando así la inconsistencia.",
 			"highlights": ["JavaScript", "PHP", "MySql"]
 		}
 	],
@@ -112,7 +112,7 @@
 		{
 			"institution": "Universidad de Oriente",
 			"url": "https://udoci.com/",
-			"area": "Civil engineering",
+			"area": "Ingeniería Civil",
 			"studyType": "Bachelor",
 			"startDate": "2017-10-01",
 			"endDate": "2021-11-01",
@@ -301,7 +301,7 @@
 	"languages": [
 		{
 			"language": "Spanish",
-			"fluency": "Native"
+			"fluency": "Nativo"
 		},
 		{
 			"language": "English",
