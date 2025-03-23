@@ -1,372 +1,398 @@
 {
-	"basics": {
-		"name": "Cristobal Colmenares",
-		"label": "Software developer / Full Stack web developer",
-		"image": "/me.webp",
-		"email": "alex.ccm7Z@gmail.com",
-		"phone": "+58 4248316446",
-		"url": "https://crissdev.vercel.app",
-		"summary": "Software Developer focused on building products with special attention to details, Technology enthusiast, with skills in different backend and frontend web environment development environments as well as mobile development. Experience with administrative systems, biometric devices, facial recognition, and everything that corresponds to software development.",
-		"location": {
-			"address": "",
-			"postalCode": "8001",
-			"city": "Ciudad Bolivar",
-			"countryCode": "VE",
-			"region": "Venezuela"
-		},
-		"profiles": [
-			{
-				"network": "LinkedIn",
-				"username": "crissacm",
-				"url": "https://linkedin.com/in/crissacm"
-			},
-			{
-				"network": "X",
-				"username": "CrissACM1",
-				"url": "https://twitter.com/CrissACM1"
-			},
-			{
-				"network": "GitHub",
-				"username": "crissacm",
-				"url": "https://github.com/crissacm"
-			},
-			{
-				"network": "Portfolio",
-				"username": "crissacm",
-				"url": "https://crissdev.vercel.app"
-			}
-		]
-	},
-	"work": [
-		{
-			"name": "LatamEarth",
-			"position": "Full Stack developer",
-			"url": "https://latamearth.com/",
-			"startDate": "2023-03-12",
-			"endDate": null,
-			"summary": "System integrates multiple libraries with React.js and Next.js uses to improve productivity and code quality. It handles user registration forms, manages files and databases for administrative purposes, and displays data in tables. It also manages various APIs, has error handling, and provides scalable and understandable code. UX design improves user interaction with the system.",
-			"highlights": [
-				"TypeScript",
-				"React.js",
-				"Zustand",
-				"Next.js",
-				"Tailwind CSS",
-				"Node.js",
-				"Supabase",
-				"PostgreSQL",
-				"Prisma",
-				"Railway",
-				"Git"
-			]
-		},
-		{
-			"name": "OgrosGameShop",
-			"position": "Frontend developer",
-			"url": "https://ogrosgameshop.com",
-			"startDate": "2022-06-10",
-			"endDate": "2023-04-01",
-			"summary": "Website style design taking into account UI/UX to facilitate the user's navigation through e-commerce, integration of administrative panel for the management of products through a CMS, management and integration of social networks for customer service",
-			"highlights": ["PHP", "JQuery", "WordPress", "MySql", "Shopify"]
-		},
-		{
-			"name": "Freelance & Proyecto personales",
-			"position": "Full Stack developer",
-			"url": "",
-			"startDate": "2021-03-01",
-			"endDate": null,
-			"summary": "Build an e-commerce website, Profile, Creation of Web application, Handle extracted data, Third-party integrations.",
-			"highlights": [
-				"Redux",
-				"Supabase",
-				"AWS",
-				"JavaScript",
-				"TypeScript",
-				"React.js",
-				"Next.js",
-				"Node.js",
-				"Express.js",
-				"Nest.js"
-			]
-		},
-		{
-			"name": "Jupiter Suministros C.A",
-			"position": "Web Administrator & Technical Maintenance",
-			"startDate": "2022-03-01",
-			"endDate": "2020-05-01",
-			"summary": "Updating and Maintenance of computer equipment both in Hardware and Software, keeping them updated for the productivity of the employees and the company, thus avoiding inconsistency.",
-			"highlights": ["JavaScript", "PHP", "MySql"]
-		}
-	],
-	"volunteer": [
-		{
-			"organization": "Organization",
-			"position": "Volunteer",
-			"url": "https://organization.com/",
-			"startDate": "2012-01-01",
-			"endDate": "2013-01-01",
-			"summary": "Description…",
-			"highlights": ["Awarded 'Volunteer of the Month'"]
-		}
-	],
-	"education": [
-		{
-			"institution": "Universidad de Oriente",
-			"url": "https://udoci.com/",
-			"area": "Civil engineering",
-			"studyType": "Bachelor",
-			"startDate": "2017-10-01",
-			"endDate": "2021-11-01",
-			"score": "4.0",
-			"courses": ["DB1101 - Basic SQL"]
-		}
-	],
-	"awards": [
-		{
-			"title": "Award",
-			"date": "2014-11-01",
-			"awarder": "Company",
-			"summary": "There is no spoon."
-		}
-	],
-	"certificates": [
-		{
-			"name": "Certificate",
-			"date": "2021-11-07",
-			"issuer": "Company",
-			"url": "https://certificate.com"
-		}
-	],
-	"publications": [
-		{
-			"name": "Publication",
-			"publisher": "Company",
-			"releaseDate": "2014-10-01",
-			"url": "https://publication.com",
-			"summary": "Description…"
-		}
-	],
-	"skills": [
-		{
-			"name": "HTML",
-			"level": "Master",
-			"keywords": ["Desarrollo Web", "Frontend"]
-		},
-		{
-			"name": "CSS",
-			"level": "Master",
-			"keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-		},
-		{
-			"name": "Tailwind",
-			"level": "Avanzado",
-			"keywords": [
-				"Desarrollo Web",
-				"Frontend",
-				"CSS Framework",
-				"Diseño Responsive"
-			]
-		},
-		{
-			"name": "TypeScript",
-			"level": "Avanzado",
-			"keywords": [
-				"Desarrollo Web",
-				"Frontend",
-				"Backend",
-				"JavaScript Superset"
-			]
-		},
-		{
-			"name": "Angular",
-			"level": "Avanzado",
-			"keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-		},
-		{
-			"name": "React",
-			"level": "Avanzado",
-			"keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-		},
-		{
-			"name": "Redux",
-			"level": "Avanzado",
-			"keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-		},
-		{
-			"name": "Native",
-			"level": "Avanzado",
-			"keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-		},
-		{
-			"name": "Next.js",
-			"level": "Avanzado",
-			"keywords": [
-				"Desarrollo Web",
-				"Frontend",
-				"React Framework",
-				"SSR",
-				"Static Generation"
-			]
-		},
-		{
-			"name": "Node",
-			"level": "Avanzado",
-			"keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-		},
-		{
-			"name": "Nest",
-			"level": "Avanzado",
-			"keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-		},
-		{
-			"name": "Prisma",
-			"level": "Avanzado",
-			"keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-		},
-		{
-			"name": "Postgres",
-			"level": "Avanzado",
-			"keywords": [
-				"Bases de Datos",
-				"SQL",
-				"Almacenamiento de Datos",
-				"Backend"
-			]
-		},
-		{
-			"name": "MySQL",
-			"level": "Avanzado",
-			"keywords": [
-				"Bases de Datos",
-				"SQL",
-				"Almacenamiento de Datos",
-				"Backend"
-			]
-		},
-		{
-			"name": "Linux",
-			"level": "Avanzado",
-			"keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-		},
-		{
-			"name": "Docker",
-			"level": "Avanzado",
-			"keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-		},
-		{
-			"name": "Jest",
-			"level": "Avanzado",
-			"keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-		},
-		{
-			"name": "Playwright",
-			"level": "Avanzado",
-			"keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-		},
-		{
-			"name": "Git",
-			"level": "Avanzado",
-			"keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-		},
-		{
-			"name": "GitHub",
-			"level": "Avanzado",
-			"keywords": [
-				"Control de Versiones",
-				"Colaboración",
-				"Código Fuente",
-				"Git"
-			]
-		},
-		{
-			"name": "CICD",
-			"level": "Avanzado",
-			"keywords": [
-				"Control de Versiones",
-				"Colaboración",
-				"Código Fuente",
-				"Git"
-			]
-		},
-		{
-			"name": "Graphql",
-			"level": "Avanzado",
-			"keywords": [
-				"Control de Versiones",
-				"Colaboración",
-				"Código Fuente",
-				"Git"
-			]
-		}
-	],
-	"languages": [
-		{
-			"language": "Spanish",
-			"fluency": "Native"
-		},
-		{
-			"language": "English",
-			"fluency": "B1"
-		}
-	],
-	"interests": [
-		{
-			"name": "Wildlife",
-			"keywords": ["Ferrets", "Unicorns"]
-		}
-	],
-	"references": [
-		{
-			"name": "Jane Doe",
-			"reference": "Reference…"
-		}
-	],
-	"projects": [
-		{
-			"name": "mars.codes",
-			"isActive": true,
-			"description": "Historia interactiva con retos de programación para viajar a Marte",
-			"highlights": ["Elige tu propia aventura", "En desarrollo"],
-			"url": "https://mars.codes"
-		},
-		{
-			"name": "AdventJS",
-			"isActive": true,
-			"description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-			"highlights": [
-				"+1 millón de visitas",
-				"Multidioma",
-				"JavaScript & TypeScript"
-			],
-			"url": "https://adventjs.dev"
-		},
-		{
-			"name": "Codember",
-			"isActive": true,
-			"description": "Juego interactivo de programación con retos y secretos",
-			"highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-			"url": "https://codember.dev"
-		},
-		{
-			"name": "codi.link",
-			"isActive": true,
-			"description": "Playground de código HTML, CSS y JavaScript para compartir",
-			"highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-			"url": "https://codi.link",
-			"github": "https://github.com/midudev/codi.link"
-		},
-		{
-			"name": "Pruebas Técnicas",
-			"isActive": true,
-			"description": "Lista de pruebas técnicas de empresas para practicar programación",
-			"highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-			"url": "https://pruebastecnicas.com",
-			"github": "https://github.com/midudev/pruebas-tecnicas"
-		},
-		{
-			"name": "miduConf",
-			"description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-			"highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-			"url": "https://miduconf.com"
-		}
-	]
+  "basics": {
+    "name": "Cristobal Colmenares",
+    "label": "Full-Stack web & mobile developer",
+    "image": "/me.webp",
+    "email": "alex.ccm7Z@gmail.com",
+    "phone": "+58 4248316446",
+    "url": "https://crissdev.vercel.app",
+    "summary": "3 years of experience as Software Developer. led FrontEnd development at LatamEarth, achieving a 40% improvement in product delivery, a 25% improvement in web performance, as BackEnd Developer, have developed Rest APIs using PHP and Node JS, as well as Auth systems and automations. researched new technologies for their subsequent implementation to optimize and accelerate development processes.",
+    "location": {
+      "address": "",
+      "postalCode": "8001",
+      "city": "Bolivar",
+      "countryCode": "VE",
+      "region": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "crissacm",
+        "url": "https://linkedin.com/in/crissacm"
+      },
+      {
+        "network": "X",
+        "username": "CrissACM1",
+        "url": "https://twitter.com/CrissACM1"
+      },
+      {
+        "network": "GitHub",
+        "username": "crissacm",
+        "url": "https://github.com/crissacm"
+      },
+      {
+        "network": "Portfolio",
+        "username": "crissacm",
+        "url": "https://crissdev.vercel.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LatamEarth",
+      "position": "Full Stack developer",
+      "url": "https://latamearth.com/",
+      "startDate": "2023-03-12",
+      "endDate": null,
+      "summary": [
+        "developed and integrated multiple reusable and scalable components using React and Vue, achieving a 15% reduction in development time across the company's product suite through technical convergence and accelerated product delivery.",
+        "designed and developed data visualization solutions using interactive tables, resulting in a 20% improvement in data comprehension and efficiency for end-users.",
+        "implemented and managed user registration forms, file management systems, and databases for administrative purposes.",
+        "managed various APIs, implementing error handling and ensuring scalable and maintainable code.",
+        "developed and maintained the deployment infrastructure for web applications, reducing deployment cycles by 30% and guaranteeing a seamless user experience and an exceptional development environment.",
+        "contributed to UX design to improve user interaction with the system."
+      ],
+      "highlights": [
+        "TypeScript",
+        "React.js",
+        "Zustand",
+        "Next.js",
+        "Tailwind CSS",
+        "Node.js",
+        "Supabase",
+        "PostgreSQL",
+        "Prisma",
+        "Railway",
+        "Git"
+      ]
+    },
+    {
+      "name": "OgrosGameShop",
+      "position": "Frontend developer",
+      "url": "https://ogrosgameshop.com",
+      "startDate": "2022-06-10",
+      "endDate": "2023-04-01",
+      "summary": [
+        "led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimized one. fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+        "designed and developed the website's style, focusing on UI/UX to optimize user navigation in e-commerce.",
+        "integrated an administrative panel for product management through a CMS.",
+        "managed and integrated social networks to improve customer services."
+      ],
+      "highlights": ["PHP", "JQuery", "WordPress", "MySql", "Shopify"]
+    },
+    {
+      "name": "Jupiter Suministros C.A",
+      "position": "Web Administrator & Technical Maintenance",
+      "startDate": "2022-03-01",
+      "endDate": "2020-05-01",
+      "summary": [
+        "Updating and Maintenance of computer equipment both in Hardware and Software, keeping them updated for the productivity of the employees and the company, thus avoiding inconsistency."
+      ],
+      "highlights": ["JavaScript", "PHP", "MySql"]
+    },
+    {
+      "name": "Freelance & Proyecto personales",
+      "position": "Full Stack developer",
+      "url": "",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "summary": [
+        "Build an e-commerce website, Profile, Creation of Web application, Handle extracted data, Third-party integrations."
+      ],
+      "highlights": [
+        "Redux",
+        "Supabase",
+        "AWS",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "Nest.js"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Oriente",
+      "url": "https://udoci.com/",
+      "area": "Systems engineering",
+      "studyType": "Anzoategui, Venezuela",
+      "startDate": "2017-10-01",
+      "endDate": "2021-11-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Redux",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Native",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Nest",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Prisma",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Postgres",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Jest",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Playwright",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "CICD",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Graphql",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "softSkills": [
+    "Flexible",
+    "Productivity",
+    "Adaptable",
+    "Problem solving",
+    "Teamwork",
+    "Agile",
+    "Decision making",
+    "Communication"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": ["Elige tu propia aventura", "En desarrollo"],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
+      "url": "https://miduconf.com"
+    }
+  ]
 }
